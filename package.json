@@ -1,0 +1,25 @@
+{
+  "name": "projeto-node.js-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelTomas/Node.js-Rest.git"
+  },
+  "author": "Rafael Tomás",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelTomas/Node.js-Rest/issues"
+  },
+  "homepage": "https://github.com/RafaelTomas/Node.js-Rest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "save-dev": "^0.0.1-security"
+  }
+}
